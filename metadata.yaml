@@ -1,0 +1,33 @@
+_repo: De-l-origine-des-esp-ces_14158
+_version: 0.1.0
+alternative_title: On the origin of species. French
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Darwin, Charles
+    alias: Darwin, Charles Robert
+    birthdate: 1809
+    deathdate: 1882
+    gutenberg_agent_id: '485'
+    url: http://www.gutenberg.org/2009/agents/485
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Darwin
+description: ''
+gutenberg_bookshelf:
+- Biology
+- FR Sciences et Techniques
+gutenberg_issued: '2004-11-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14158'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Natural selection'
+- !lcc 'QH'
+- !lcsh 'Evolution (Biology)'
+title: De l'origine des espèces
+url: http://www.gutenberg.org/ebooks/14158
